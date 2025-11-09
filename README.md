@@ -9,15 +9,15 @@ This project analyzes website traffic data to understand user behavior, marketin
 ## 📸 Dashboard Screenshots
 
 ### Marketing Channel Insights Dashboard
-![Marketing Channel Insights Dashboard](Screenshot 2025-10-29 123541.png)
+![Marketing Channel Insights Dashboard](<Screenshot 2025-10-29 123541.png>)
 *Overview of key metrics including total users, sessions, events, and channel performance comparison*
 
 ### Time-Based Analysis
-![Time-Based Analysis Dashboard](Screenshot 2025-10-29 123557.png)
+![Time-Based Analysis Dashboard](<Screenshot 2025-10-29 123557.png>)
 *Daily trends and hourly activity patterns for user sessions across different channels*
 
 ### Traffic Peaks & Engagement Trends
-![Traffic Peaks & Engagement Dashboard](Screenshot 2025-10-29 123613.png)
+![Traffic Peaks & Engagement Dashboard](<Screenshot 2025-10-29 123613.png>)
 *Detailed hourly traffic distribution and engagement rate analysis*
 
 ## 🔧 Technologies Used
